@@ -1,4 +1,5 @@
 import react from 'react';
+import styles from './Navbar.module.css';
 
 
 const Navbar = () => {
@@ -21,3 +22,4 @@ const Navbar = () => {
         </header>
     );
 };
+export default Navbar;
