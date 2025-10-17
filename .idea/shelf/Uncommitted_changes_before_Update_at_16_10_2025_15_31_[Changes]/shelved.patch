@@ -1,0 +1,29 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/STC_Home/STC_Home.html
+rename from index.html
+rename to STC_Home/STC_Home.html
+--- a/index.html	(revision 1029fb49ea814cf1fb1f49de82220eccc43b560c)
++++ b/STC_Home/STC_Home.html	(date 1760620247660)
+@@ -2,9 +2,13 @@
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+-    <title>Title</title>
++    <title>STC | Engineering done efficiently</title>
++    <link rel="stylesheet" href="STC_style.css">
+ </head>
+ <body>
++<header>
++
++</header>
+ 
+ </body>
+ </html>
+\ No newline at end of file
+diff --git a/style.css b/STC_Home/STC_style.css
+rename from style.css
+rename to STC_Home/STC_style.css
